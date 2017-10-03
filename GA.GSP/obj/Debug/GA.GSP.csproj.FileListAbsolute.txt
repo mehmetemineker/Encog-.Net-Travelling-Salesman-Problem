@@ -1,0 +1,10 @@
+c:\users\mehme\documents\visual studio 2017\Projects\GA.GSP\GA.GSP\bin\Debug\GA.GSP.exe.config
+c:\users\mehme\documents\visual studio 2017\Projects\GA.GSP\GA.GSP\bin\Debug\GA.GSP.exe
+c:\users\mehme\documents\visual studio 2017\Projects\GA.GSP\GA.GSP\bin\Debug\GA.GSP.pdb
+c:\users\mehme\documents\visual studio 2017\Projects\GA.GSP\GA.GSP\obj\Debug\GA.GSP.csprojResolveAssemblyReference.cache
+c:\users\mehme\documents\visual studio 2017\Projects\GA.GSP\GA.GSP\obj\Debug\GA.GSP.FormMain.resources
+c:\users\mehme\documents\visual studio 2017\Projects\GA.GSP\GA.GSP\obj\Debug\GA.GSP.Properties.Resources.resources
+c:\users\mehme\documents\visual studio 2017\Projects\GA.GSP\GA.GSP\obj\Debug\GA.GSP.csproj.GenerateResource.Cache
+c:\users\mehme\documents\visual studio 2017\Projects\GA.GSP\GA.GSP\obj\Debug\GA.GSP.exe
+c:\users\mehme\documents\visual studio 2017\Projects\GA.GSP\GA.GSP\obj\Debug\GA.GSP.pdb
+c:\users\mehme\documents\visual studio 2017\Projects\GA.GSP\GA.GSP\bin\Debug\encog-core-cs.dll
